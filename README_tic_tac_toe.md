@@ -17,5 +17,5 @@
     ## Пример работы программы:
 
 
-    ![Скриншот работы бота крестики-нолики](C:\Users\79967\Desktop\Scr_homework\H_w_08\Screenshot_1.jpg)
+    ![Скриншот работы бота крестики-нолики]([C:\Users\79967\Desktop\Scr_homework\H_w_08\Screenshot_1](https://github.com/vladislavkrutov8/Home_work_09/blob/main/Screenshot_1.png).jpg)
 
