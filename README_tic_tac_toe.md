@@ -16,6 +16,7 @@
 
     ## Пример работы программы:
 
+<img width="426" alt="Screenshot_1" src="https://user-images.githubusercontent.com/110223646/204807869-c4a7d797-56c5-4689-a6a6-56c57d1fe97e.png">
 
 
-![Image alt](vladislavkrutov8/Home_work_09/blob/main/Screenshot_1.png)
+
