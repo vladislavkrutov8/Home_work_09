@@ -9,5 +9,5 @@
 
 Бот поддерживает команды: /start - начало работы и приглашение ввести выражение для рассчета /help - описание какие операции может осуществлять бот
 
+<img width="408" alt="Screenshot_2" src="https://user-images.githubusercontent.com/110223646/204808105-6cfbcc28-ad16-4077-99ee-ad639a092c07.png">
 
-image 
