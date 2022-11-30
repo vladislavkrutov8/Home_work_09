@@ -18,4 +18,4 @@
 
 
 
-![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png](https://github.com/vladislavkrutov8/Home_work_09/blob/main/Screenshot_1.png))
+![Image alt](vladislavkrutov8/Home_work_09/blob/main/Screenshot_1.png)
