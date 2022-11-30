@@ -18,4 +18,4 @@
 
 
 
-![Скриншот работы бота крестики-нолики]([https://github.com/jon/coolproject/raw/master](https://github.com/vladislavkrutov8/Home_work_09/blob/main/Screenshot_1.png)/image/image.png)
+![Image alt]([https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png](https://github.com/vladislavkrutov8/Home_work_09/blob/main/Screenshot_1.png))
